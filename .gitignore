@@ -1,2 +1,6 @@
 venv
-secrets.json
+.secrets.json
+.idea
+db.sqlite3
+__pycache__
+launch.json
